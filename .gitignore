@@ -1,2 +1,3 @@
 build/
 startechconf-Info.plist
+services/config/database.yml

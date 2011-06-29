@@ -28,8 +28,12 @@ GEM
       activemodel (= 3.0.7)
       activesupport (= 3.0.7)
     activesupport (3.0.7)
+    apn_on_rails (0.4.2)
+      configatron
     arel (2.0.10)
     builder (2.1.2)
+    configatron (2.8.2)
+      yamler (>= 0.1.0)
     erubis (2.6.6)
       abstract (>= 1.0.0)
     haml (3.1.1)
@@ -65,11 +69,13 @@ GEM
     treetop (1.4.9)
       polyglot (>= 0.3.1)
     tzinfo (0.3.29)
+    yamler (0.1.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  apn_on_rails
   haml (= 3.1.1)
   pg
   rails (= 3.0.7)

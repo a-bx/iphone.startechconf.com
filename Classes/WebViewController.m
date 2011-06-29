@@ -29,7 +29,7 @@
 // Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
 - (void)viewDidLoad {
     self.navigationController.navigationBarHidden = YES;
-    NSString *urlAddress = @"http://m.startechconf.com";
+    NSString *urlAddress = [[NSBundle mainBundle] objectForInfoDictionaryKey:@"StartechConfMobileURL"];
     NSURL *url = [NSURL URLWithString:urlAddress];
     NSURLRequest *requestObj = [NSURLRequest requestWithURL:url];
     [webView loadRequest:requestObj];

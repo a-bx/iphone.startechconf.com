@@ -24,5 +24,9 @@
 	<string>1.0</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>ServiceURL</key>
+	<string>http://service.example.com/api/</string>
+	<key>StartechConfMobileURL</key>
+	<string>http://m.startechconf.com/</string>
 </dict>
 </plist>

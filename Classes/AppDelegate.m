@@ -61,13 +61,9 @@
       UIRemoteNotificationTypeBadge | 
       UIRemoteNotificationTypeSound)];
     
-    
- // if (![navigator restoreViewControllers]) {
   
-      [navigator openURLAction:[TTURLAction actionWithURLPath:@"stc://startechmob/WebViewController"]];
-      
- // }
-    
+    [navigator openURLAction:[TTURLAction actionWithURLPath:@"stc://startechmob/WebViewController"]];
+     
 }
 
 

@@ -15,6 +15,8 @@
 		6A321705138DB4B80069E77F /* WebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A321703138DB4B80069E77F /* WebViewController.m */; };
 		6A321706138DB4B80069E77F /* WebViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6A321704138DB4B80069E77F /* WebViewController.xib */; };
 		6ACDA1F7139EC91F00F21BA5 /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6ACDA1F6139EC91F00F21BA5 /* Entitlements.plist */; };
+		6AEC86B213BBD1FC00A0FB2B /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AEC86B113BBD1FC00A0FB2B /* Default.png */; };
+		6AEC86B413BBD26800A0FB2B /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AEC86B313BBD26800A0FB2B /* logo.png */; };
 		6E3796DA11B9BD740011C497 /* libThree20Core.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E3796B611B9BD630011C497 /* libThree20Core.a */; };
 		6E3796DB11B9BD750011C497 /* libThree20Network.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E3796BC11B9BD630011C497 /* libThree20Network.a */; };
 		6E3796DC11B9BD750011C497 /* libThree20Style.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E3796C211B9BD630011C497 /* libThree20Style.a */; };
@@ -189,6 +191,8 @@
 		6A321703138DB4B80069E77F /* WebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebViewController.m; sourceTree = "<group>"; };
 		6A321704138DB4B80069E77F /* WebViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WebViewController.xib; sourceTree = "<group>"; };
 		6ACDA1F6139EC91F00F21BA5 /* Entitlements.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Entitlements.plist; sourceTree = "<group>"; };
+		6AEC86B113BBD1FC00A0FB2B /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		6AEC86B313BBD26800A0FB2B /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
 		6E3796A111B9BD630011C497 /* Three20Core.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Three20Core.xcodeproj; path = ../three20/src/Three20Core/Three20Core.xcodeproj; sourceTree = SOURCE_ROOT; };
 		6E3796A411B9BD630011C497 /* Three20Network.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Three20Network.xcodeproj; path = ../three20/src/Three20Network/Three20Network.xcodeproj; sourceTree = SOURCE_ROOT; };
 		6E3796A711B9BD630011C497 /* Three20Style.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Three20Style.xcodeproj; path = ../three20/src/Three20Style/Three20Style.xcodeproj; sourceTree = SOURCE_ROOT; };
@@ -246,6 +250,7 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				6AEC86B313BBD26800A0FB2B /* logo.png */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
@@ -268,6 +273,7 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				6AEC86B113BBD1FC00A0FB2B /* Default.png */,
 				EB383B6C10BBF6360000B2D2 /* Three20.bundle */,
 				8D1107310486CEB800E47090 /* startechconf-Info.plist */,
 				6ACDA1F6139EC91F00F21BA5 /* Entitlements.plist */,
@@ -569,6 +575,8 @@
 				EB383B6D10BBF6360000B2D2 /* Three20.bundle in Resources */,
 				6A321706138DB4B80069E77F /* WebViewController.xib in Resources */,
 				6ACDA1F7139EC91F00F21BA5 /* Entitlements.plist in Resources */,
+				6AEC86B213BBD1FC00A0FB2B /* Default.png in Resources */,
+				6AEC86B413BBD26800A0FB2B /* logo.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

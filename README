@@ -4,6 +4,6 @@ Setup
 	* follow directions on forking: http://help.github.com/forking/
 
 2. at same directory where is iphone.startech.conf.com, clone https://github.com/facebook/three20 
-3. configure the service route at startechconf-info.plist 
+3. configure the service route at startechconf-info.plist.sample and rename it to startechconf-info.plist
 4. open the startechconf.xcodeproj file and Run
 

@@ -327,14 +327,14 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>6A0150BA139EC72B00FDB042</string>
+										<string>6A6A734C13BBCD00006ACD68</string>
 										<key>history</key>
 										<array>
 											<string>6A32169A138D95540069E77F</string>
 											<string>6A321712138DB5EB0069E77F</string>
 											<string>6A0150B7139EC72B00FDB042</string>
 											<string>6A0150B8139EC72B00FDB042</string>
-											<string>6A0150B9139EC72B00FDB042</string>
+											<string>6A0150BA139EC72B00FDB042</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -346,14 +346,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1072, 488}}</string>
+								<string>{{0, 0}, {1072, 483}}</string>
 								<key>RubberWindowFrame</key>
 								<string>0 74 1280 704 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>488pt</string>
+							<string>483pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -366,14 +366,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 493}, {1072, 170}}</string>
+								<string>{{0, 488}, {1072, 175}}</string>
 								<key>RubberWindowFrame</key>
 								<string>0 74 1280 704 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>170pt</string>
+							<string>175pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -392,9 +392,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>6A01507B139E9FAB00FDB042</string>
+				<string>6A6A734D13BBCD00006ACD68</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>6A01507C139E9FAB00FDB042</string>
+				<string>6A6A734E13BBCD00006ACD68</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -532,11 +532,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>6A0150BB139EC72B00FDB042</string>
-		<string>6A015093139EB0D900FDB042</string>
-		<string>6A015086139E9FAB00FDB042</string>
-		<string>1C78EAAD065D492600B07095</string>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>6A32161A138D923E0069E77F</string>
 		<string>/Users/abrahambarrera/Develop/Continuum/startechconf/startechconf/startechconf.xcodeproj</string>
 	</array>
@@ -618,7 +613,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>6A32161A138D923E0069E77F</string>
-				<string>6A01507D139E9FAB00FDB042</string>
+				<string>6A6A734F13BBCD00006ACD68</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
